@@ -12,3 +12,9 @@ Pada pembelajaran individu, peserta akan mengikuti pembelajaran synchronous dan 
 # Metode Asesmen
 
 Penilaian individu dilakukan melalui hasil penugasan dan ujian online.
+
+# Dokumentasi
+
+[![Google Slides](https://img.shields.io/badge/Google%20Slides-yellow?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/10zdWEXDP_hNQT98sheDG4_ZEWFUMlsh7/edit#slide=id.p1)
+
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ht4CCApgq_4)
