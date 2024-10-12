@@ -19,9 +19,11 @@
             "includePath": [
                 "/home/syukrillah/.arduino15/packages/esp8266/hardware/esp8266/3.1.2/tools/sdk/include",
                 "/home/syukrillah/.arduino15/packages/esp8266/hardware/esp8266/3.1.2/tools/sdk/lwip2/include",
-                "/tmp/arduino/sketches/F211354019D4DA19E877347BA1AB0E44/core",
+                "/tmp/arduino/sketches/71FA128FC9B5C28AD13297C353DDF670/core",
                 "/home/syukrillah/.arduino15/packages/esp8266/hardware/esp8266/3.1.2/cores/esp8266",
                 "/home/syukrillah/.arduino15/packages/esp8266/hardware/esp8266/3.1.2/variants/d1_mini",
+                "/home/syukrillah/Arduino/libraries/DHT_sensor_library",
+                "/home/syukrillah/Arduino/libraries/Adafruit_Unified_Sensor",
                 "/home/syukrillah/.arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.1.0-gcc10.3-e5f9fec/xtensa-lx106-elf/include/c++/10.3.0",
                 "/home/syukrillah/.arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.1.0-gcc10.3-e5f9fec/xtensa-lx106-elf/include/c++/10.3.0/xtensa-lx106-elf",
                 "/home/syukrillah/.arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/3.1.0-gcc10.3-e5f9fec/xtensa-lx106-elf/include/c++/10.3.0/backward",
